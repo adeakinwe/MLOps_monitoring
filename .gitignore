@@ -1,1 +1,6 @@
+.ipynb_checkpoints
 mlflow-311venv/
+data/
+mlmonitor-venv/
+models/
+workspace/
